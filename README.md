@@ -1,4 +1,4 @@
-#Multimodal neural pronunciation modeling for spoken languages with logographic origin
+# Multimodal neural pronunciation modeling for spoken languages with logographic origin
 
 This code implements neural network models to predict pronunciation of Cantonese, using pronunciation of cognates in historically related languages (Mandarin, Vietnamese, Korean) and embeddings from logographic characters.
 The code uses Keras with Tensorflow backend.
